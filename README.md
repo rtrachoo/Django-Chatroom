@@ -1,2 +1,2 @@
 # Django-Chatroom
-A chatroom project meant to showcase the utilization of Django backend.  Can run on a local host - simple front end html and CSS.
+Backend code for a realtime chatroom built using Django and Python. Users can run the project on a local host - simple front end html and CSS.
